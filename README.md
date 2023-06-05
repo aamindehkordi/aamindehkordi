@@ -1,6 +1,4 @@
-# 👋 Aloha, I'm Ali Amin
-
-I'm a recent Computer Science graduate from Concordia University Irvine, passionate about leveraging AI technologies to drive innovation and efficiency. I'm currently exploring opportunities where I can apply my skills and learn new ones. I'm particularly interested in AI and its applications in various industries.
+# 👋 Salam
 
 ## 🎓 Education
 
