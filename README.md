@@ -1,4 +1,4 @@
-# 👋 Salam
+# Ali Amin Dehkordi
 
 ## 🎓 Education
 
@@ -6,7 +6,8 @@
 
 ## 💼 Work Experience
 
-- **Best Buy**, Sales Associate, 2020 - Present
+- **Dribble Pickup**, CTO, 2023-Presetn
+- **Best Buy**, Sales Associate, 2020 - 2022
 - **Concordia University Irvine IT Department**, IT Support, 2019 - 2020
 - **Various Fast Food Locations**, Seasonal Worker, 2017 - 2019
 
