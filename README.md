@@ -6,7 +6,7 @@
 
 ## 💼 Work Experience
 
-- **Dribble Pickup**, CTO, 2023-Presetn
+- **Dribble Pickup**, CTO, 2023-Present
 - **Best Buy**, Sales Associate, 2020 - 2023
 - **Concordia University Irvine IT Department**, IT Support, 2019 - 2020
 - **Various Fast Food Locations**, Seasonal Worker, 2017 - 2019
